@@ -98,7 +98,7 @@ public class BPDaoImpl implements IBPDao{
 	}
 
 	public void Hello() {
-		
+		System.out.println("ds");
 	}
 
 }
