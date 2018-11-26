@@ -97,9 +97,8 @@ public class BPDaoImpl implements IBPDao{
 		return routeList;
 	}
 
-	public void Hello() {
-		System.out.println("dds");
+	public void hello() {
+		System.out.println("Hello");
 	}
-
 }
 
